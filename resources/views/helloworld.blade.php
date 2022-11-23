@@ -7,7 +7,7 @@
     <title>Mini Project 1</title>
 </head>
 <body>
-    <p>Name : Phung Thi Minh Hue</p>
+    <p>Name : Hello</p>
     <p>Age: 20</p>
     <p>Address: Binh Phu-Thach That- Ha Noi</p>
     <p>Major: Programming</p>
