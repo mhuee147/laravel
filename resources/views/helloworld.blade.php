@@ -7,8 +7,8 @@
     <title>Mini Project 1</title>
 </head>
 <body>
-    <p>Name : Hello</p>
-    <p>Age: 20</p>
+    <p>Name : Phung</p>
+    <p>Age: 0</p>
     <p>Address: Binh Phu-Thach That- Ha Noi</p>
     <p>Major: Programming</p>
 </body>
